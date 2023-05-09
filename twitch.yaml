@@ -1,0 +1,6 @@
+---
+  user: ""
+  pass: ""
+  host: "irc.chat.twitch.tv"
+  port: 6667
+  chan: ""

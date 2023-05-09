@@ -1,0 +1,271 @@
+---
+  PSX:
+    default:
+      "up":
+        "description": "Move up"
+        "keybind": "VK_UP"
+        "inputs":
+          - press_up
+          - up_button
+          - up
+          - u
+      "down":
+        "description": "Move down"
+        "keybind": "VK_DOWN"
+        "inputs":
+          - press_down
+          - down_button
+          - down
+          - dow
+          - do
+          - d
+      "left":
+        "description": "Move left"
+        "keybind": "VK_LEFT"
+        "inputs":
+          - press_left
+          - left_button
+          - left
+          - lef
+          - le
+          - l
+      "right":
+        "description": "Move right"
+        "keybind": "VK_RIGHT"
+        "inputs":
+          - press_right
+          - right_button
+          - right
+          - righ
+          - rig
+          - ri
+          - r
+      "cross":
+        "description": "Cross Button"
+        "keybind": "z"
+        "inputs":
+          - press_cross
+          - cross_button
+          - cross
+          - cros
+          - cro
+          - cr
+          - x
+      "circle":
+        "description": "Circle Button"
+        "keybind": "x"
+        "inputs":
+          - press_circle
+          - circle_button
+          - circle
+          - circl
+          - circ
+          - cir
+          - ci
+          - c
+      "triangle":
+        "description": "Triangle Button"
+        "keybind": "s"
+        "inputs":
+          - press_triangle
+          - triangle_button
+          - triangle
+          - triangl
+          - triang
+          - trian
+          - tria
+          - tri
+          - tr
+          - t
+      "square":
+        "description": "Square Button"
+        "keybind": "a"
+        "inputs":
+          - press_square
+          - square_button
+          - square
+          - squar
+          - squa
+          - squ
+          - sq
+          - s
+      "L1":
+        "description": "L1 Button"
+        "keybind": "q"
+        "inputs":
+          - press_l1
+          - l1_button
+          - l1
+      "L2":
+        "description": "L2 Button"
+        "keybind": "e"
+        "inputs":
+          - press_l2
+          - l2_button
+          - l2
+      "R1":
+        "description": "R1 Button"
+        "keybind": "w"
+        "inputs":
+          - press_r1
+          - r1_button
+          - r1
+      "R2":
+        "description": "R2 Button"
+        "keybind": "r"
+        "inputs":
+          - press_r2
+          - r2_button
+          - r2
+      "start":
+        "description": "Start Button"
+        "keybind": "ENTER"
+        "inputs":
+          - press_start
+          - start_button
+          - start
+          - star
+          - sta
+          - st
+      "select":
+        "description": "Select Button"
+        "keybind": "VK_SPACE"
+        "inputs":
+          - press_select
+          - select_button
+          - select
+          - selec
+          - sele
+          - sel
+          - se
+    "mods":
+      "Save1":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F1"
+        "inputs":
+          - save1
+          - save_1
+          - shift_f1
+      "Save2":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F2"
+        "inputs":
+          - save2
+          - save_2
+          - shift_f2
+      "Save3":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F3"
+        "inputs":
+          - save3
+          - save_3
+          - shift_f3
+      "Save4":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F4"
+        "inputs":
+          - save4
+          - save_4
+          - shift_f4
+      "Save5":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F5"
+        "inputs":
+          - save5
+          - save_5
+          - shift_f5
+      "Save6":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F6"
+        "inputs":
+          - save6
+          - save_6
+          - shift_f6
+      "Save7":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F7"
+        "inputs":
+          - save7
+          - save_7
+          - shift_f7
+      "Save8":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F8"
+        "inputs":
+          - save8
+          - save_8
+          - shift_f8
+      "Save9":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F9"
+        "inputs":
+          - save9
+          - save_9
+          - shift_f9
+      "Save10":
+        "keybind":
+          - "VK_LSHIFT"
+          - "VK_F10"
+        "inputs":
+          - save10
+          - save_10
+          - shift_f10
+      "Load1":
+        "keybind": "VK_F1"
+        "inputs":
+          - load1
+          - load_1
+      "Load2":
+        "keybind": "VK_F2"
+        "inputs":
+          - load2
+          - load_2
+      "Load3":
+        "keybind": "VK_F3"
+        "inputs":
+          - load3
+          - load_3
+      "Load4":
+        "keybind": "VK_F4"
+        "inputs":
+          - load4
+          - load_4
+      "Load5":
+        "keybind": "VK_F5"
+        "inputs":
+          - load5
+          - load_5
+      "Load6":
+        "keybind": "VK_F6"
+        "inputs":
+          - load6
+          - load_6
+      "Load7":
+        "keybind": "VK_F7"
+        "inputs":
+          - load7
+          - load_7
+      "Load8":
+        "keybind": "VK_F8"
+        "inputs":
+          - load8
+          - load_8
+      "Load9":
+        "keybind": "VK_F9"
+        "inputs":
+          - load9
+          - load_9
+      "Load10":
+        "keybind": "VK_F10"
+        "inputs":
+          - load10
+          - load_10
