@@ -114,7 +114,6 @@ for retry in range(retries):
 
 # TO-DO: Turn this in to a useful function
 print("[+] Launching Game...")
-#emulator_process = Application(backend="win32").start("./mGBA/mGBA.exe ./mGBA/3.gba")
 emulator_process = Application(backend="win32").start(emulator_command)
 emu = emulator_process.window()
 time.sleep(1)
